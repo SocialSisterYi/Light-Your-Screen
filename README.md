@@ -8,6 +8,6 @@
 | [CH12864F](CH12864F/CH12864F.md)                            | lcd模组 | 128x64   | ST7567 |
 | [FXDG128460](FXDG128460/FXDG128460.md)                      | lcd面板 | 128x64   | ST7567 |
 | [YM1620212CT6](YM1620212CT6/YM1620212CT6.md)                | lcd面板 | 128x32   | ST7567 |
-
-
+| [FXDM80512GGFW](FXDM80512GGFW/FXDM80512GGFW.md)             | lcd面板 | 128x24   | ST7567 |
+| [YXD-12846L01-E](YXD-12846L01-E/YXD-12846L01-E.md)          | lcd面板 | 128x64   | UC1701 |
 
