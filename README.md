@@ -14,4 +14,6 @@
 | [VM1521141CT6](VM1521141CT6/README.md)           | 点阵 LCD 面板 | 96x16    | ST7539 |
 | [JDL0418D05](JDL0418D05/README.md)               | 段码 LCD 模组 | -        | HT1621 |
 | [WST-LCD117A](WST-LCD117A/README.md)             | 点阵 LCD 面板 | 128x64   | ST7567 |
+| [FM110236ACS6](FM110236ACS6、README.md)          | 点阵 LCD 面板 | 132x32   | ST7567 |
+| [FM1420011CT6](FM1420011CT6/README.md)           | 点阵 LCD 面板 | 128x64   | ST7567 |
 
