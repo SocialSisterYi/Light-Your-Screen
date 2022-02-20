@@ -28,4 +28,6 @@
 | [01210-MF1-B](01210-MF1-B/README.md)             | 点阵 OLED 面板     | 128x32      | SSD1306    |
 | [LCM-4630](LCM-4630/README.md)                   | 点阵 LCD 面板      | 128x64      | ST7567     |
 | [CCSB4736W(G12896-08)](CCSB4736W/README.md)      | 4灰度点阵 LCD 面板 | 128x96x2    | ST7571     |
+| [ST64128B13](ST64128B13/README.md)               | 点阵 LCD 面板      | 128x64+ICON | UC1604     |
+| [FGC-ADD-000793B](FGC-ADD-000793B/README.md)     | 点阵 LCD 面板      | 128x64      | ST7567     |
 
